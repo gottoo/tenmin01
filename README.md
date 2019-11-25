@@ -3,8 +3,8 @@
 <td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【为什么要三退】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/why"><img src="tenmin01/img/edited221-1-600x400-1.jpg"></a>
-        <td align="center" width="450"><img src="tenmin01/img/edited221-1-600x400-1.jpg"></td>
+        <td align="center" width="550"><a href="https://git.io/why"><img src="https://github.com/gottoo/tenmin01/blob/master/img/edited221-1-600x400-1.jpg"></a>
+        <td align="center" width="450"><img src="https://github.com/gottoo/tenmin01/blob/master/img/edited221-1-600x400-1.jpg"></td>
 </tr>
  <tr>
  <td align="center" colspan="2">中共拉人入党最重要的一环，就是让人对党旗发誓，“为共产主义奋斗终身，随时准备为党和人民牺牲一切，永不叛党。”这个誓言是一个不折不扣的毒誓。少先队：“我在队旗下宣誓……准备着：为共产主义事业，贡献出一切力量！”
