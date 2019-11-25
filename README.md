@@ -3,7 +3,7 @@
 <td align="center" colspan="2"><h1><b><a href="http://git.io/zb">【为什么要三退】</a></b></h1>
  </tr>
 <tr>
-        <td align="center" width="550"><a href="https://git.io/why"><img src="tenmin01/img/whytd.jpg"></a>
+        <td align="center" width="550"><a href="https://git.io/why"><img src="tenmin01/img/edited221-1-600x400-1.jpg"></a>
         <td align="center" width="450"><img src="tenmin01/img/whytd-qr.png"></td>
 </tr>
  <tr>
